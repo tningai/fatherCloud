@@ -73,6 +73,7 @@ public class PaymentController {
         System.out.println("hello hot-fix for the first edit");
         System.out.println("master edit for conflict");
         System.out.println("hot-fix edit for conflict");
+        System.out.println("master push for test one");
         return serverPot;
     }
 }
