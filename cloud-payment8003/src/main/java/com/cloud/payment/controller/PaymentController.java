@@ -68,6 +68,7 @@ public class PaymentController {
 
     @GetMapping(value = "/payment/myPort")
     public String getPort(){
+        System.out.println("hello git first edit");
         return serverPot;
     }
 }
