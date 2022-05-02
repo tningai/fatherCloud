@@ -75,6 +75,7 @@ public class PaymentController {
         System.out.println("hot-fix edit for conflict");
         System.out.println("master push for test one");
         System.out.println("github push for test two");
+        System.out.println("github edit for test three");
         return serverPot;
     }
 }
