@@ -71,6 +71,7 @@ public class PaymentController {
         System.out.println("hello git first edit");
         System.out.println("hello again git second edit");
         System.out.println("hello hot-fix for the first edit");
+        System.out.println("master edit for conflict");
         return serverPot;
     }
 }
